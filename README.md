@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tiles Retail Web Application
 
 MERN stack web application for a retail tile shop.
@@ -11,3 +12,5 @@ MERN stack web application for a retail tile shop.
 ## Setup
 - Client: React + Vite
 - Server: Node + Express
+=======
+# tiles-retail-webapp
